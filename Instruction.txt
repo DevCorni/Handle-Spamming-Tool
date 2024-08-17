@@ -1,0 +1,5 @@
+Modules to install :
+
+discord
+asyncio
+os
